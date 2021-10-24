@@ -1,0 +1,8 @@
+You will need (in order to run this application successfully):
+    - Urban Terror (obviously)
+    - Python, NodeJS--you may also want NGINX to proxy this program.
+    - For Python:
+        - pip
+        - flask
+
+    - A Unix-like environment.

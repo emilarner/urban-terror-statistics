@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "quake3-rcon": "^1.0.2"
+  }
+}
